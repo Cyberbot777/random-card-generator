@@ -2,7 +2,7 @@
 
 A simple vanilla JavaScript project that displays a randomly generated playing card each time the page loads.
 
-## To demo: https://random-card-generator-mu.vercel.app/
+To demo: https://random-card-generator-mu.vercel.app/
 
 ## Features
 
